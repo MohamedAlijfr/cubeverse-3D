@@ -1,0 +1,8 @@
+{
+  "name": "Cubiverse 3D: Énigmes Spatiales",
+  "description": "Un jeu de puzzle 3D envoûtant aux niveaux de difficulté croissants avec roulement de blocs, dalles de pression et mécaniques quantiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
